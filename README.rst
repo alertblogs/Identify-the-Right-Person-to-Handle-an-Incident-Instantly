@@ -1,40 +1,32 @@
-AlertOps Expert Guidance
+Identify the Right Person to Handle an Incident Instantly
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+ Is your team struggling to reach the right person to handle an incident? With the right alert monitoring system at your disposal, you can notify the right person to handle an incident, at the right time, every time.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+An alert tracking system connects your monitoring tools, service desk app and chat tools to automate incident management and speed up time to resolution. To better understand how this system works, let’s consider a real world example.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+A large financial institution had defined service-level agreements (SLAs) for incident notifications, follow-ups and resolution. It also set up manual incident management procedures. Since these procedures were not automated, however, it was difficult to guarantee that they were followed. Furthermore, it was difficult for the financial institution to meet its SLAs and track and audit its incident management processes.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+The aforementioned financial institution needed to automate its incident management procedures. To do so, the institution implemented an alert tracking system, and the results were significant.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Thanks to an alert tracking system that offered automated incident management, the financial institution could define who should be notified about an incident and how and when each person should be notified. Plus, the institution leveraged one-touch calling, which allowed users to click to join on a conference bridge with other team members to discuss incidents. It even used the alert monitoring system’s acknowledgement, assignment and reminder features to ensure that the right people could take ownership of an incident.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+What to Look for in an Alert Monitoring System
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Financial institutions and organizations in other industries can use an alert monitoring system to automate incident management – and much more. In fact, there are several features to consider as you search for the right alert tracking system for your organization, and these features include:
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+    On-Call Scheduling: Allows flexible on-call scheduling from fixed schedules to rotating schedules.
+    Team Management: Allows role-based security to delegate team administrative tasks to designated team admins, as well as allows you to assign team or group contacts for specific incidents.
+    Multi-Modal Communication: Sends voice messages, SMS messages, push notifications and email alerts to your correct support team members for specific incidents.
+    Escalations: Rotate through your on-call teams and escalate to a manager when needed.
+    Smart Routing: Ensures that your alerts get to the right person via his or her preferred contact method.
 
-1 Red Canary 2021 Threat Detection Report
+Ultimately, the right alert monitoring system allows you to identify and reach the right person to handle an incident. Best of all, it automates incident management, thereby ensuring you can quickly and efficiently resolve incidents time and time again.
+
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/reach-the-right-person/
 
 Read more:
 ====
